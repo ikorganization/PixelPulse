@@ -1,0 +1,14 @@
+
+---
+
+# 5. README.md — CLI Tool
+
+```md
+# DevCLI
+
+A command-line utility for developers.
+
+## Installation
+
+```bash
+npm install -g devcli
