@@ -1,0 +1,21 @@
+
+---
+
+# 6. README.md — Mobile App
+
+```md
+# MobileApp
+
+Cross-platform mobile application built with Flutter.
+
+## Features
+
+- Android support
+- iOS support
+- Push notifications
+
+## Run
+
+```bash
+flutter pub get
+flutter run
